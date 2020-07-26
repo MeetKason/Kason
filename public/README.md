@@ -1,4 +1,5 @@
-# Kason
+## 菜鸟一枚, 网站只是为了学习/进步
+## 本网站使用Hexo, 基于主题 [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)
 
 ## 上传github流程
 

@@ -11411,3 +11411,6 @@ figure.highlight .section {
     padding: 1.5rem 1rem;
   }
 }
+#st-cmp-v2 {
+  display: none !important;
+}

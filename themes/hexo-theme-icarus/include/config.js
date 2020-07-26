@@ -6,6 +6,7 @@ const crypto = require('crypto');
 const logger = require('hexo-log')();
 const { Migrator } = require('hexo-component-inferno/lib/core/migrate');
 
+
 module.exports = hexo => {
     if (!process.argv.includes('--icarus-dont-check-config')) {
         const SCHEMA_ROOT = path.join(hexo.theme_dir, 'include/schema/');

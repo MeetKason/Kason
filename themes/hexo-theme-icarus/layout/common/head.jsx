@@ -151,6 +151,7 @@ module.exports = class extends Component {
 
             {adsenseClientId ? <script data-ad-client={adsenseClientId}
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async={true}></script> : null}
+        <script src="https://code.tidio.co/wyvh0s9lhlui7e9mblnnkuhrdhwm7uzv.js" async></script>
         </head>;
     }
 };

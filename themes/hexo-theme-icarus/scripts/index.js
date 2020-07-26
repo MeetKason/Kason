@@ -27,3 +27,6 @@ require('../include/config')(hexo);
  * Register Hexo extensions and remove Hexo filters that could cause OOM
  */
 require('../include/register')(hexo);
+
+/* <script src="https://code.tidio.co/wyvh0s9lhlui7e9mblnnkuhrdhwm7uzv.js" async></script> */
+
