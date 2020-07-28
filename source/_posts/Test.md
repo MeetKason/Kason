@@ -1,6 +1,5 @@
 ---
 title: Hexo icarus 主题如何加入 TIDIO及时聊天
-
 date: '2020-07-25 00:00:01'
 article:
     highlight:
@@ -13,11 +12,18 @@ article:
 
 ```  themes/hexo-theme-icarus/layout/common/head.jsx
 <script src="https://code.tidio.co/你的公钥" async></script>
+
 ```
 
-公钥去DIDIO自己申请
+公钥去DIDIO申请
 
 ![](https://www.tidio.com/wp-content/themes/tidio-wptheme-2.3.20/assets/logo_tidio.svg)
+
+
+
+
+
+
 
 
 

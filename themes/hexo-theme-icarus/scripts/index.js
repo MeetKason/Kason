@@ -28,5 +28,4 @@ require('../include/config')(hexo);
  */
 require('../include/register')(hexo);
 
-/* <script src="https://code.tidio.co/wyvh0s9lhlui7e9mblnnkuhrdhwm7uzv.js" async></script> */
 
